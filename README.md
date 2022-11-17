@@ -7,5 +7,5 @@ Portfolio: https://fredrikholm.dev
 - 🌱 I’m currently learning: Node.js, Mongo DB
 - 👯 I’m looking to collaborate on: Anything!
 - 💬 Ask me about: Old school hip-hop trivia
-- 📫 How to reach me: "Here, there and everywhere" – Huey Lewis & The News
+- 📫 How to reach me: ["Here, there and everywhere" – Huey Lewis & The News](https://www.linkedin.com/in/karlfredrikholm/)
 - ⚡ Fun fact: Salvador Dalí made the Chupa Chups logo.
