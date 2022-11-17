@@ -1,7 +1,7 @@
 ### Hi there 🫵
 
-I'm a freshly baked web developer named Fredrik. 
-With a background in office management I now strive to keep my code as neat as possible. 
+I'm a freshly baked web developer named Fredrik.<br>
+With a background in office management I now strive to keep my code as neat as possible.<br>
 Always eager to deepen my knowledge and sharpen my coding skills.
 
 - 🌱 I’m currently learning: Node.js, Mongo DB
